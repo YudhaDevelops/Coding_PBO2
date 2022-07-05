@@ -1,0 +1,18 @@
+package Teori;
+
+import java.util.SortedSet;
+import java.util.TreeSet;
+
+public class TestPengurutan {
+    public static void main(String [] args) {
+        SortedSet set = new TreeSet();
+                set.add("Suzuki");
+                set.add("Toyota");
+                set.add("Mazda");
+                set.add("Izusu");
+                set.add("Cevrolet");
+                set.add("Lexus");
+                set.add("Daihatsu");
+                System.out.println(set);
+    }
+}
