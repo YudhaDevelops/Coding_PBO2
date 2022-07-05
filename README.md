@@ -1,10 +1,10 @@
 ## For Codingers Yang Mager Buat Coding GUI apa lagi kalian yang lagi di semester 3 ada referensi nih buat kalian jika ada project GUI (Grafik User Interface) Berbasis Java
 
 # Coding_PBO2
-Yang Buka Repo Ini dan Ambil SC dari Repo Ini Tolong Klik Star nya ya :) thx :v
+Yang Buka Repo Ini dan Ambil SC dari Repo Ini Tolong Klik Star nya ya :) thx ✌️
+<br/><br/><br/><br/>
 
-## Cara Download???
-
+# <h1>Cara Download???</h1>
 # Yang punya Git di PC nya
 <strong> SEBELUM ITU REPO NYA DI KASIH BINTANG DULU JIKA MEMBANTU PROJECT ATAU TUGAS KAMU </strong>
 - Buat folder direktory di pc kalian
